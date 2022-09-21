@@ -20,7 +20,7 @@ setup(
     description = ("Add_description_here"),
     license = "BSD",
     keywords = ["ridley-nelson17"],
-    url = "https://github.com/ridley-nelson17/PushGate",
+    url = "https://github.com/ridley-nelson17/__CHANGE_THIS__",
     packages=['lib'],
     package_data={'lib': ['bin/*']},
     package_dir={'': path.dirname(path.abspath(__file__))},
