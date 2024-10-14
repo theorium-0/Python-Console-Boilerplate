@@ -1,1 +1,10 @@
+ports:
+  - port: 6080
+    onOpen: open-preview
+#tasks:
+# - init:
+# - command:
+#   name:
 
+image:
+  file: .theia/.gitpod.Dockerfile
