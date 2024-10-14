@@ -1,1 +1,1 @@
-# Python-Project-Template
+# Basic Python Console Boilerplate
